@@ -60,3 +60,7 @@ h1,
 h2 {
   margin: 0;
 }
+
+.bold {
+  font-weight: bolder;
+}
